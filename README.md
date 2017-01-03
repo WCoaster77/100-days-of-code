@@ -1,15 +1,12 @@
-# LOG
+## LOG
 This is my Log of 100 days of coding
 
-## Day 1 Jan 1st, 2017
-### Todays Progress
-Uploaded the work I have done on FCC Weather App Challenge
+**Day 1 Jan 1st, 2017**
+**Todays Progress:** Uploaded the work I have done on FCC Weather App Challenge
 
-### Thoughts
-I have been struggling with variable scope and call backs. Need to research this area.
+**Thoughts:** I have been struggling with variable scope and call backs. Need to research this area.
 
-### Link to Work
-https://github.com/WCoaster77/Local-Weather-App
+**Link to Work:** https://github.com/WCoaster77/Local-Weather-App
 
 
 # I've joined the #100DaysOfCode Challenge.
