@@ -1,6 +1,13 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 3: Jan 3rd, 2017
+**Todays Progress:** Played with Object and Array value returns
+
+**Thoughts:** Should have this figured out now. Will be able to finish code side of Weather app in 2 days. Just need ot make it look good after that.
+
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
+
 ###Day 2: Jan 2nd, 2017
 **Todays Progress:** Read and practiced exercises from [JavaScript Programmer's Reference](http://www.apress.com/us/book/9781430246299) *I got my copy at local library.* Forked repository of code examples.
 
