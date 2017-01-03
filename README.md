@@ -1,12 +1,19 @@
 ## LOG
 This is my Log of 100 days of coding
 
-###Day 1 Jan 1st, 2017
+###Day 2: Jan 2nd, 2017
+**Todays Progress:** Read and practiced exercises from [JavaScript Programmer's Reference](http://www.apress.com/us/book/9781430246299) *I got my copy at local library.* Forked repository of code examples.
+
+**Thoughts:** I knew I was on the right track and this book is helping to clarify the variable/call back process.
+
+**Link to Work:** [Code Example Repository](https://github.com/WCoaster77/javascript-programmer-reference)
+
+###Day 1: Jan 1st, 2017
 **Todays Progress:** Uploaded the work I have done on FCC Weather App Challenge
 
 **Thoughts:** I have been struggling with variable scope and call backs. Need to research this area.
 
-**Link to Work:** https://github.com/WCoaster77/Local-Weather-App
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
 
 
 # I've joined the #100DaysOfCode Challenge.
