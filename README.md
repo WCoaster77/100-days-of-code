@@ -1,13 +1,12 @@
 ## LOG
 This is my Log of 100 days of coding
 
-+###Day 4: Jan 6th, 2017
- +**Todays Progress:** Implemented callback functions to be able to use data correctly
- +
- +**Thoughts:** Serious knowledge gap here. Getting it figured out.
- +
- +**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
- +
+###Day 4: Jan 6th, 2017
+**Todays Progress:** Implemented callback functions to be able to use data correctly
+
+**Thoughts:** Serious knowledge gap here. Getting it figured out.
+
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
 
 ###Day 3: Jan 3rd, 2017
 **Todays Progress:** Played with Object and Array value returns
