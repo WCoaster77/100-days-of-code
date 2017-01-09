@@ -1,6 +1,20 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 7: Jan 9th, 2017
+**Todays Progress:** All data captured and ready for CSS formatting.
+
+**Thoughts:** Almost done. Nice. Thinking about how much I have forgotten about CSS and Bootstrap now. Doh!
+
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
+
+###Day 6: Jan 8th, 2017
+**Todays Progress:** Set up parameters and icons to display on page.
+
+**Thoughts:** Got ,ore modular and able to use data in other functions
+
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
+
 ###Day 5: Jan 7th, 2017
 **Todays Progress:** Set up parameters and icons to display on page.
 
