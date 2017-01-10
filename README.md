@@ -1,6 +1,13 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 8: Jan 10th, 2017
+**Todays Progress:** Studied Flexbox all day and taking another hour of code for the effort
+
+**Thoughts:** This knowledge will help format the Weather App. I think I will also go back a and refctor personal profile page with some of these tools. Rather enjoyed spending the day on Sublime versus VS2016.
+
+**Link to Work:** [Flexbox](https://github.com/WCoaster77/flexbox)
+
 ###Day 7: Jan 9th, 2017
 **Todays Progress:** All data captured and ready for CSS formatting.
 
