@@ -1,6 +1,11 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 9: Jan 11th, 2017
+**Todays Progress:** Created music app layout using flexbox
+
+**Thoughts:** Loving flexbow and being able to space and order objects.
+
 ###Day 8: Jan 10th, 2017
 **Todays Progress:** Studied Flexbox all day and taking another hour of code for the effort
 
