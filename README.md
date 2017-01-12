@@ -1,10 +1,19 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 10: Jan 12th, 2017
+**Todays Progress:** Added Flexbox Styling to Weather App
+
+**Thoughts:** Loving flexbox made Styiling web page so much easier. Next up rotating image to set compass icon to current wind direction.
+
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
+
 ###Day 9: Jan 11th, 2017
 **Todays Progress:** Created music app layout using flexbox
 
-**Thoughts:** Loving flexbow and being able to space and order objects.
+**Thoughts:** Loving flexbox and being able to space and order objects.
+
+**Link to Work:** [Flexbox](https://github.com/WCoaster77/flexbox)
 
 ###Day 8: Jan 10th, 2017
 **Todays Progress:** Studied Flexbox all day and taking another hour of code for the effort
