@@ -1,6 +1,13 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 11: Jan 13th, 2017
+**Todays Progress:** Added Rotate feature to CSS and used javascript variable to CSS in Weather App
+
+**Thoughts:** Thought of the idea of rotating one compass arrow image and found solution and implemnted it. This one is all mine!!
+
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
+
 ###Day 10: Jan 12th, 2017
 **Todays Progress:** Added Flexbox Styling to Weather App
 
