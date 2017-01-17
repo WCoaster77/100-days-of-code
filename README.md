@@ -1,6 +1,20 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 13: Jan 17th, 2017
+**Todays Progress:** Finished FCC Weather App Project
+
+**Thoughts:** A lot of work on this one. It took me longer than it should have but learned a lot again.
+
+**Link to Work:** [Weather App](http://codepen.io/WCoaster/full/mREBeB/)
+
+###Day 12: Jan 16th, 2017
+**Todays Progress:** Updated code to work on CodePen
+
+**Thoughts:** Sucks doing work over to fit special functionalities. This was an interesting problem to solve. (http and https API calls and security issues.)
+
+**Link to Work:** [Weather App](https://github.com/WCoaster77/Local-Weather-App)
+
 ###Day 11: Jan 13th, 2017
 **Todays Progress:** Added Rotate feature to CSS and used javascript variable to CSS in Weather App
 
