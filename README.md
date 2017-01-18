@@ -4,7 +4,7 @@ This is my Log of 100 days of coding
 ###Day 14: Jan 18th, 2017
 **Todays Progress:** Started Wikipedia Veiwer
 
-**Thoughts:** Damn Cors and Preflight Header. Onlie info is not very specific on ow to use this correctly. I do have a JSON response now so I am happy.
+**Thoughts:** Damn CORS and Preflight Header. Onlie info is not very specific on ow to use this correctly. I do have a JSON response now so I am happy.
 
 **Link to Work:** [Wikipedia Veiwer](https://github.com/WCoaster77/Wikipedia-Viewer)
 
