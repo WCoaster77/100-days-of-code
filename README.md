@@ -1,6 +1,20 @@
 ## LOG
 This is my Log of 100 days of coding
 
+###Day 16: Jan 25th, 2017
+**Todays Progress:** Learned to create HTML elements with javaScript.
+
+**Thoughts:** Aways mroe to learn. Have seen lots mentioned on the DOM and played with in the past but this project is opening that area to me as well.
+
+**Link to Work:** [Wikipedia Veiwer](https://github.com/WCoaster77/Wikipedia-Viewer)
+
+###Day 15: Jan 24th, 2017
+**Todays Progress:** Managed to proces API return correctly.
+
+**Thoughts:** Lot's of variations of API implementation and methods for calling.
+
+**Link to Work:** [Wikipedia Veiwer](https://github.com/WCoaster77/Wikipedia-Viewer)
+
 ###Day 14: Jan 18th, 2017
 **Todays Progress:** Started Wikipedia Veiwer
 
